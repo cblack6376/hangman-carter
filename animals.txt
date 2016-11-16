@@ -1,0 +1,21 @@
+Animals
+penguin
+sloth
+bear
+fish
+salmon
+lizard
+polar bear
+kangaroo
+cat
+dog
+alligator
+panda
+koala
+eagle
+pelican
+salamander
+frog
+turtle
+rabbit
+trout
